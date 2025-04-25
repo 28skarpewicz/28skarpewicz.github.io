@@ -1,0 +1,38 @@
+body {
+    background-image: url(https://cdn.theatlantic.com/thumbor/EmW-E0FwUa0MhOoGk0BXYyBiBm0=/0x0:1718x1718/1718x1718/media/files/est/space-calculator/background6.jpg);
+    margin: 0;
+}
+
+h1 {
+    color: rgb(141, 196, 233)
+}
+
+p {
+    color: rgb(141, 196, 233);
+}
+
+table {
+    color: rgb(141, 196, 233);
+    border: 2px solid rgb(226, 175, 128);
+    padding: 3px;
+}
+
+a {
+    color: blue;
+}
+
+#box {
+    width: 80%;
+    background-color: chocolate;
+    margin: auto;
+}
+
+.blah {
+    border: 5px solid black;
+    overflow: hidden;
+}
+
+.blah img {
+    width: 20%;
+    float: left;
+}
