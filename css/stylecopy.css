@@ -15,24 +15,33 @@ table {
     color: rgb(141, 196, 233);
     border: 2px solid rgb(226, 175, 128);
     padding: 3px;
+    margin: 8px;
 }
 
 a {
+    color: #f5a328;
+}
+th, td{
+    border: 2px solid rgb(226, 175, 128);
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+article {
+    background-image: url(https://static.turbosquid.com/Preview/2013/06/18__16_28_10/walltexture.jpgf8e1ee5c-aa56-40f9-986a-a583fbad830bLarge.jpg) ;
+    margin: 9%;
+}
+article p{
+    font-size: x-large;
     color: blue;
 }
-
-#box {
-    width: 80%;
-    background-color: chocolate;
-    margin: auto;
-}
-
-.blah {
-    border: 5px solid black;
-    overflow: hidden;
-}
-
-.blah img {
-    width: 20%;
-    float: left;
-}
+article img{
+    max-width: 20%;
+    text-wrap: wrap;
+  }
+  footer {
+    margin: 18px;
+  }
