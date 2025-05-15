@@ -5,7 +5,7 @@ body {
 
 h1 {
     color: rgb(141, 196, 233);
-    margin: auto 45%;
+    text-align: center;
 }
 
 p {
@@ -34,7 +34,7 @@ nav ul {
 article {
     background-image: url(https://static.turbosquid.com/Preview/2013/06/18__16_28_10/walltexture.jpgf8e1ee5c-aa56-40f9-986a-a583fbad830bLarge.jpg) ;
     margin: 9%;
-    
+    text-align: center;
 }
 article p{
     font-size: x-large;
