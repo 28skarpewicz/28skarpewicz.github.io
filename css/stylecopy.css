@@ -4,7 +4,8 @@ body {
 }
 
 h1 {
-    color: rgb(141, 196, 233)
+    color: rgb(141, 196, 233);
+    margin: auto 45%;
 }
 
 p {
@@ -15,7 +16,7 @@ table {
     color: rgb(141, 196, 233);
     border: 2px solid rgb(226, 175, 128);
     padding: 3px;
-    margin: 8px;
+    margin: auto 44%;
 }
 
 a {
@@ -33,6 +34,7 @@ nav ul {
 article {
     background-image: url(https://static.turbosquid.com/Preview/2013/06/18__16_28_10/walltexture.jpgf8e1ee5c-aa56-40f9-986a-a583fbad830bLarge.jpg) ;
     margin: 9%;
+    
 }
 article p{
     font-size: x-large;
@@ -43,5 +45,18 @@ article img{
     text-wrap: wrap;
   }
   footer {
-    margin: 18px;
+    margin: auto 44%;
+    background-image: url(https://static.turbosquid.com/Preview/2013/06/18__16_28_10/walltexture.jpgf8e1ee5c-aa56-40f9-986a-a583fbad830bLarge.jpg) ;
   }
+  header {
+    padding: 19px;
+    background-image: url(https://static.turbosquid.com/Preview/2013/06/18__16_28_10/walltexture.jpgf8e1ee5c-aa56-40f9-986a-a583fbad830bLarge.jpg) ;
+    margin: 9%;
+}
+nav {
+    background-color: grey;
+    padding: 1px;
+}
+nav ul li{
+    border: #f5a328 dashed;
+}
